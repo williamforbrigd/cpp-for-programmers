@@ -1,1 +1,15 @@
 **/build
+**/.gitignore
+**/.clang-format
+**/.idea
+**/cmake-build-debug
+
+exercise10/game/build
+exercise10/game/.DS_Store
+exercise10/game/.gitignore
+exercise10/game/.clang-format
+exercise10/game/.idea
+exercise10/game/cmake-build-debug
+exercise10/game/imgui.ini
+
+
