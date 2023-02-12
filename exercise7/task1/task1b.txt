@@ -1,0 +1,15 @@
+Oppgave 1b)
+
+Uttrykket er venstreassosiativt som vil si at uttrykket tolkes på måten:
+
+((((5 - 3) - fraction1) - 7) - fraction2)
+
+Hvilke versjoner av operatoren blir brukt?
+
+1: 5-3 = operator-(5, 3)
+
+2: 2 - fraction1 = operator-(2, fraction1)
+
+3: (2 - fraction1) - 7 = (2 - fraction1).operator-(7)
+
+4: (((2 - fraction1) - 7) - fraction2) = ((2 - fraction1) - 7).operator-(fraction2)
