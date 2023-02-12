@@ -11,5 +11,6 @@ exercise10/game/.clang-format
 exercise10/game/.idea
 exercise10/game/cmake-build-debug
 exercise10/game/imgui.ini
+exercise10/game/.git
 
 
